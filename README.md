@@ -4,7 +4,6 @@
 <div align="center">
   <a href="https://github.com/MAN0LIT0">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MAN0LIT0&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&title_color=#4B0082"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAN0LIT0&layout=demo&langs_count=7&theme=synthwave&title_color=#4B0082"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Marco-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
